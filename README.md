@@ -1,1 +1,1 @@
-https://github.com/FRMarina/rsschool-cv/cv
+https://github.com/MarFedRol/rsschool-cv/blob/gh-pages/cv.md
